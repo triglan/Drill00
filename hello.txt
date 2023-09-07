@@ -2,6 +2,5 @@ hillo
 이규원
 2020182028
 a+
-wrf
 temp
 why bug
